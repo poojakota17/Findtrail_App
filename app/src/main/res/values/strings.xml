@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cmpe277</string>
+    <string name="button">Button</string>
+    <string name="enter_a_location">Enter a location</string>
+
+    <string name="enter">Enter</string>
+</resources>
