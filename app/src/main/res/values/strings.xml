@@ -4,4 +4,36 @@
     <string name="enter_a_location">Enter a location</string>
 
     <string name="enter">Enter</string>
+    <string name="top_trails_10">Top trails(10)</string>
+    <string name="moderate">Moderate</string>
+    <string name="yosemite_national_park_is_in_california_s_sierra_nevada_mountains_in_yosemite_village_are_shops_restaurants_lodging_the_yosemite_museum_and_the_ansel_adams_gallery_with_prints_of_the_photographer_s_renowned_black_and_white_landscapes_of_the_area">Yosemite National Park is in California’s Sierra Nevada mountains. In Yosemite Village are shops, restaurants, lodging, the Yosemite Museum and the Ansel Adams Gallery, with prints of the photographer’s renowned black-and-white landscapes of the area.</string>
+    <string name="best_trails_in_yosemite_national_park">Best trails in Yosemite National Park</string>
+    <string name="yosemite">yosemite</string>
+    <string name="vernal">vernal</string>
+    <string name="_1_vernal_and_nevada_falls_via_mist_trail">#1 - Vernal and Nevada Falls via Mist Trail</string>
+    <string name="length_8_8_mi_est_5h_1m">Length: 8.8 mi Est: 5h 1m</string>
+    <string name="upper">upper</string>
+    <string name="_2_upper_yosemite_falls_trail">#2 - Upper Yosemite Falls Trail</string>
+
+    <string name="length_7_6_mi_est_4h_30m">Length: 7.6 mi Est: 4h 30m</string>
+    <string name="haldome">haldome</string>
+    <string name="_3_half_dome_trail">#3 - Half Dome Trail</string>
+    <string name="hard">hard</string>
+    <string name="length_15_mi_est_9h_1m">Length: 15 mi Est: 9h 1m</string>
+    <string name="lower">lower</string>
+    <string name="_4_lower_yosemite_trail">#4 - Lower Yosemite Trail</string>
+
+
+    <string name="length_1_2_mi_est_28m">Length: 1.2 mi Est: 28m</string>
+    <string name="glacier">glacier</string>
+    <string name="_5_glacier_point_trail">#5 - Glacier Point Trail</string>
+    <string name="_6_mirror_lake_trail">#6 - Mirror Lake Trail</string>
+
+
+    <string name="length_0_6_mi_est_14m">Length: 0.6 mi Est: 14m</string>
+    <string name="easy">easy</string>
+    <string name="length_6_1_mi_est_2h_26m">Length: 6.1 mi Est: 2h 26m</string>
+    <string name="mirror">mirror</string>
+    <string name="search">Search</string>
+    <string name="find_your_next_favourite_trail">Find your next favourite trail</string>
 </resources>

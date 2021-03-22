@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Cmpe277">
-<!--        <activity android:name=".parklist"></activity>-->
+
+        <activity android:name=".traildetail"
+            android:parentActivityName=".viewdetails"/> <!-- <activity android:name=".parklist"></activity> -->
         <activity
             android:name=".viewdetails"
             android:parentActivityName=".Searchactivity" />

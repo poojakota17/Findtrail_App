@@ -39,7 +39,7 @@
         android:backgroundTint="@color/teal_700"
 
         android:onClick="viewdetails"
-        android:text="Search"
+        android:text="@string/search"
         android:textAllCaps="false"
         android:textColor="#D3D2D0"
         android:textColorHint="#050404"
@@ -58,7 +58,7 @@
         android:layout_marginTop="28dp"
         android:fontFamily="cursive"
         android:gravity="center"
-        android:text="Find your next favourite trail"
+        android:text="@string/find_your_next_favourite_trail"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="35sp"

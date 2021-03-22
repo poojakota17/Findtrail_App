@@ -18,7 +18,7 @@ class Searchactivity : AppCompatActivity() {
     fun viewdetails(view: View) {
      val text= findViewById<EditText>(R.id.inputlocation)
       val  textvalue=text.text
-        Toast.makeText( this,"location is $textvalue",Toast.LENGTH_LONG).show()
+//        Toast.makeText( this,"location is $textvalue",Toast.LENGTH_LONG).show()
         val intent = Intent(this, viewdetails::class.java ).apply{ putExtra(EXTRA_MESSAGE,textvalue ) }
         startActivity(intent)
 
